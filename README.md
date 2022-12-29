@@ -1,2 +1,2 @@
 # NestedLinkedList
-İç içe bağlı liste yapısı.
+Data Structures and Algorithms : Nested Linked Lists
